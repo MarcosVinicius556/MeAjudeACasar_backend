@@ -1,6 +1,14 @@
-import { Request, Response, json } from "express";
+import { Request, Response } from "express";
 
-export const testRouteConfig = async (req: Request, res: Response) => {
-    console.log('Parece que deu certo');
-    return res.status(201).json({ message: "Parece que deu certo a rotinha...." }); 
+//Models
+import { UserModel } from "../models/User";
+
+export const findAll = async (req: Request, res: Response) => {
+    try {
+        const users = await UserModel.find();
+        
+        return res.status(200).json(users);
+    } catch (error) {
+        return res.status(500).json({ error });
+    }
 }

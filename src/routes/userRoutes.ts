@@ -1,6 +1,6 @@
 import { Router } from 'express';
-import { testRouteConfig } from '../controllers/userController';
+import { findAll } from '../controllers/userController';
 
 const userRouter = Router();
 
-export default userRouter.get('/test', testRouteConfig);
+export default userRouter.get('/', findAll);
