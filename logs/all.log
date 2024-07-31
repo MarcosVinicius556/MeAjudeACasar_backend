@@ -19,3 +19,19 @@
 2024-07-31 15:40:58:4058 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
 2024-07-31 15:41:02:412 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
 2024-07-31 15:41:02:412 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-07-31 15:57:36:5736 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-07-31 15:57:36:5736 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-07-31 15:57:38:5738 - [35mhttp[39m - [35mGET /api/ 404 143 - 2.660 ms[39m
+[35m[39m
+2024-07-31 15:57:39:5739 - [35mhttp[39m - [35mGET /api/ 404 143 - 0.958 ms[39m
+[35m[39m
+2024-07-31 15:58:53:5853 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-07-31 15:58:53:5853 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-07-31 15:58:57:5857 - [35mhttp[39m - [35mGET /api/test - - - - ms[39m
+[35m[39m
+2024-07-31 15:59:28:5928 - [35mhttp[39m - [35mGET /api/test 201 48 - 6.987 ms[39m
+[35m[39m
+2024-07-31 15:59:29:5929 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-07-31 15:59:29:5929 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-07-31 15:59:40:5940 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-07-31 15:59:40:5940 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
