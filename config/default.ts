@@ -2,7 +2,7 @@ import { EnviromentType } from "./enums/EnviromentType"
 
 const dbUser = process.env.DB_USER
 const dbPass = process.env.DB_PASS
-const dbURI = process.env.DB_URL
+const dbURI = process.env.DB_URI
 
 export default {
     port: 3000,
