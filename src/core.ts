@@ -1,13 +1,16 @@
 require("dotenv").config();
 
+import Logger from '../config/logger';
 import express from 'express';
 import config from 'config';
 
-import Logger from '../config/logger';
+//Middlewares
+import morganMiddleware from './middlewares/morganMiddleware';
 
 const core = express();
 
 core.use(express.json());
+core.use(morganMiddleware)
 
 const port = config.get<number>('port');
 
