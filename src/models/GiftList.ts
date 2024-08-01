@@ -1,7 +1,7 @@
 import mongoose, { Schema } from "mongoose";
 import { GiftSchema, IGift } from "./Gift";
 
-interface IGiftList extends Document {
+export interface IGiftList extends Document {
     permite_ver_movimentacao_indisponivel: boolean;
     permite_ver_movimentacao_observacao: boolean;
     criado_em: Date;

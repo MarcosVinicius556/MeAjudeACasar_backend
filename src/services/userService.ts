@@ -3,7 +3,7 @@ import Logger from "../../config/logger";
 
 export default function UserService() {
 
-    const findAllUsers = async (): Promise<IUser[]> => {
+    const findAll = async (): Promise<IUser[]> => {
         try {
             const users = await UserModel.find();    
             
@@ -62,13 +62,13 @@ export default function UserService() {
             
             return true;
         } catch (error) {
-            Logger.error("Não foi possível atualizar o usuário! Erro: " + error);
-            throw new Error("Não foi possível atualizar o usuário! Erro: " + error);
+            Logger.error("Não foi possível remover o usuário! Erro: " + error);
+            throw new Error("Não foi possível remover o usuário! Erro: " + error);
         }
     }
     
     return {
-        findAllUsers,
+        findAll,
         findById,
         insert,
         update,
