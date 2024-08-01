@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { findAll } from '../controllers/userController';
+import { findAll, findById, insert, remove, update } from '../controllers/userController';
 /**
  * @openapi
  * components:
@@ -7,10 +7,7 @@ import { findAll } from '../controllers/userController';
  *     User:
  *       type: object
  *       properties:
- *         _id:
- *           type: uuid
- *           example: '123kn123kn21389fsk'
- *         name:
+ *         nome:
  *           type: string
  *           example: 'Fulano de Tal'
  *         email:
@@ -27,9 +24,8 @@ import { findAll } from '../controllers/userController';
  *           example: 'TYPE_OF_ACCESS'
  *         codigo_lista_presentes:
  *           type: string
- *           example: '123k4jh23f8hdsfs2'
  *       required:
- *         - name
+ *         - nome
  *         - email
  *         - senha
  *         - telefone
@@ -45,7 +41,7 @@ const userRouter = Router();
  *     summary: Retorna todos os usuários registrados no banco
  *     responses:
  *       200:
- *         description: Lista de usuários retornada com sucesso
+ *         description: Lista de usuários retornada com sucesso.
  *         content:
  *           application/json:
  *             schema:
@@ -56,5 +52,107 @@ const userRouter = Router();
  *       - Users
  */
 userRouter.get('/', findAll);
+
+/**
+ * @openapi
+ * /users/{id}:
+ *   get:
+ *     summary: Retorna o usuário com o ID solicitado
+ *     parameters:
+ *       - name: id
+ *         in: path
+ *         required: true
+ *         description: O ID do usuário que deve ser retornado.
+ *         schema:
+ *           type: string
+ *     responses:
+ *       200:
+ *         description: Usuário retornado com sucesso.
+ *         content:
+ *           application/json:
+ *             schema:
+ *                $ref: '#/components/schemas/User'
+ *     tags:
+ *       - Users
+ */
+userRouter.get('/:id', findById);
+
+/**
+ * @openapi
+ * /users:
+ *   post:
+ *     summary: Registra um novo usuário no banco
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             $ref: '#/components/schemas/User'
+ *     responses:
+ *       200:
+ *         description: Usuário registrado no banco.
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/User'
+ *     tags:
+ *       - Users
+ */
+userRouter.post('/', insert);
+
+/**
+ * @openapi
+ * /users/{id}:
+ *   put:
+ *     summary: Atualiza o registro de um usuário no banco
+ *     parameters:
+ *       - name: id
+ *         in: path
+ *         required: true
+ *         description: O ID do usuário que deve ser retornado.
+ *         schema:
+ *           type: string
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             $ref: '#/components/schemas/User'
+ *     responses:
+ *       200:
+ *         description: Lista de usuários retornada com sucesso.
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/User'
+ *     tags:
+ *       - Users
+ */
+userRouter.put('/:id', update);
+
+/**
+ * @openapi
+ * /users/{id}:
+ *   delete:
+ *     summary: Remove o usuário com o ID especificado
+ *     parameters:
+ *       - name: id
+ *         in: path
+ *         required: true
+ *         description: O ID do usuário que deve ser retornado.
+ *         schema:
+ *           type: string
+ *     responses:
+ *       200:
+ *         description: Retorna TRUE ou FALSE, indicando se a operação foi concluída com sucesso.
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: Boolean
+ *     tags:
+ *       - Users
+ */
+userRouter.delete('/:id', remove);
+
 
 export default userRouter;

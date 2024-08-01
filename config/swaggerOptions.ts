@@ -1,4 +1,4 @@
-import { Options } from 'swagger-jsdoc';
+import swaggerJSDoc, { Options } from 'swagger-jsdoc';
 import config from 'config';
 
 const port = config.get<number>('port');
@@ -23,4 +23,6 @@ const swaggerOptions: Options = {
 
 }
 
-export default swaggerOptions;
+const swaggerSpec = swaggerJSDoc(swaggerOptions);
+
+export default swaggerSpec;

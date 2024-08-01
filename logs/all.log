@@ -738,3 +738,316 @@
 2024-08-01 08:38:33:3833 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
 2024-08-01 08:47:16:4716 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
 2024-08-01 08:47:16:4716 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 08:47:50:4750 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 08:47:50:4750 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 08:49:21:4921 - [35mhttp[39m - [35mGET /users 304 - - 44.346 ms[39m
+[35m[39m
+2024-08-01 08:53:28:5328 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 08:53:28:5328 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 08:55:27:5527 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 08:55:27:5527 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:10:55:1055 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:10:55:1055 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:11:28:1128 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:11:28:1128 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:11:37:1137 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:11:37:1137 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:13:01:131 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:13:01:131 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:13:24:1324 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:13:24:1324 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:13:35:1335 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:13:35:1335 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:13:45:1345 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:13:45:1345 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:13:49:1349 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:13:49:1349 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:14:36:1436 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:14:36:1436 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:15:00:150 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:15:00:150 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:15:03:153 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:15:03:153 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:15:23:1523 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:15:23:1523 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:16:19:1619 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:16:19:1619 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:16:41:1641 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:16:41:1641 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:16:57:1657 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:16:57:1657 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:18:21:1821 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:18:21:1821 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:18:30:1830 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:18:30:1830 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:18:32:1832 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:18:32:1832 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:20:40:2040 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:20:40:2040 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:20:45:2045 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:20:45:2045 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:20:54:2054 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:20:54:2054 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:21:53:2153 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:21:53:2153 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:23:47:2347 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:23:47:2347 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:23:59:2359 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:23:59:2359 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:24:04:244 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:24:04:244 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:26:22:2622 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:26:22:2622 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:26:30:2630 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:26:30:2630 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:26:41:2641 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:26:41:2641 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:26:51:2651 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:26:51:2651 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:27:55:2755 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:27:55:2755 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:27:59:2759 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:27:59:2759 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:28:03:283 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:28:03:283 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:28:15:2815 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:28:15:2815 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:28:58:2858 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:28:58:2858 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:29:05:295 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:29:05:295 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:29:21:2921 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:29:21:2921 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:31:03:313 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:31:03:313 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:31:16:3116 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:31:16:3116 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:31:52:3152 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:31:52:3152 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:32:07:327 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:32:09:329 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:32:09:329 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:32:28:3228 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:32:28:3228 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:32:35:3235 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:32:35:3235 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:32:49:3249 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:32:49:3249 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:32:53:3253 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:32:53:3253 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:33:15:3315 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:33:15:3315 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:33:43:3343 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:33:43:3343 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:34:02:342 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:34:02:342 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:34:11:3411 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:34:11:3411 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:34:41:3441 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:34:41:3441 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:34:55:3455 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:34:55:3455 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:34:58:3458 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:34:58:3458 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:36:22:3622 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:36:22:3622 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:36:58:3658 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:36:58:3658 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:37:21:3721 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:37:21:3721 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:37:32:3732 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:37:32:3732 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:37:45:3745 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 8.838 ms[39m
+[35m[39m
+2024-08-01 11:37:45:3745 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 6466 - 0.867 ms[39m
+[35m[39m
+2024-08-01 11:37:45:3745 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 10.512 ms[39m
+[35m[39m
+2024-08-01 11:37:45:3745 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 12.490 ms[39m
+[35m[39m
+2024-08-01 11:37:45:3745 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 14.026 ms[39m
+[35m[39m
+2024-08-01 11:37:46:3746 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.509 ms[39m
+[35m[39m
+2024-08-01 11:37:55:3755 - [35mhttp[39m - [35mGET /users 304 - - 38.538 ms[39m
+[35m[39m
+2024-08-01 11:38:16:3816 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User"[39m
+2024-08-01 11:38:16:3816 - [35mhttp[39m - [35mGET /users/:id 500 12 - 5.452 ms[39m
+[35m[39m
+2024-08-01 11:39:01:391 - [35mhttp[39m - [35mGET /66aac7b97cc1208f707239c0 404 163 - 1.845 ms[39m
+[35m[39m
+2024-08-01 11:39:11:3911 - [35mhttp[39m - [35mGET /users/66aac7b97cc1208f707239c0 200 299 - 25.752 ms[39m
+[35m[39m
+2024-08-01 11:40:00:400 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:40:00:400 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:40:12:4012 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:40:12:4012 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:40:17:4017 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 7.391 ms[39m
+[35m[39m
+2024-08-01 11:40:17:4017 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 6467 - 1.121 ms[39m
+[35m[39m
+2024-08-01 11:40:17:4017 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 8.959 ms[39m
+[35m[39m
+2024-08-01 11:40:17:4017 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 16.206 ms[39m
+[35m[39m
+2024-08-01 11:40:17:4017 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 23.496 ms[39m
+[35m[39m
+2024-08-01 11:40:18:4018 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:40:18:4018 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:40:18:4018 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.646 ms[39m
+[35m[39m
+2024-08-01 11:40:26:4026 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "User"[39m
+2024-08-01 11:40:26:4026 - [35mhttp[39m - [35mGET /users/%7Bid%7D 500 12 - 8.388 ms[39m
+[35m[39m
+2024-08-01 11:40:30:4030 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "User"[39m
+2024-08-01 11:40:30:4030 - [35mhttp[39m - [35mGET /users/%7Bid%7D 500 12 - 2.655 ms[39m
+[35m[39m
+2024-08-01 11:41:13:4113 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:41:13:4113 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:41:26:4126 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:41:26:4126 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:41:32:4132 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:41:32:4132 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:41:42:4142 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:41:42:4142 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:42:08:428 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:42:08:428 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:42:10:4210 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 5.915 ms[39m
+[35m[39m
+2024-08-01 11:42:10:4210 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 3.127 ms[39m
+[35m[39m
+2024-08-01 11:42:10:4210 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.078 ms[39m
+[35m[39m
+2024-08-01 11:42:10:4210 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 7478 - 0.765 ms[39m
+[35m[39m
+2024-08-01 11:42:10:4210 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 5.811 ms[39m
+[35m[39m
+2024-08-01 11:42:10:4210 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.851 ms[39m
+[35m[39m
+2024-08-01 11:43:09:439 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:43:09:439 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:43:24:4324 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:43:24:4324 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:44:03:443 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:44:03:443 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:44:15:4415 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:44:15:4415 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:44:26:4426 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:44:26:4426 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:44:30:4430 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:44:30:4430 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:44:35:4435 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.240 ms[39m
+[35m[39m
+2024-08-01 11:44:35:4435 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 7133 - 0.580 ms[39m
+[35m[39m
+2024-08-01 11:44:35:4435 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 6.489 ms[39m
+[35m[39m
+2024-08-01 11:44:35:4435 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 8.885 ms[39m
+[35m[39m
+2024-08-01 11:44:35:4435 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 9.619 ms[39m
+[35m[39m
+2024-08-01 11:44:35:4435 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:44:35:4435 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:44:35:4435 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.806 ms[39m
+[35m[39m
+2024-08-01 11:44:48:4448 - [35mhttp[39m - [35mGET /users/66aac7b97cc1208f707239c0 200 299 - 33.635 ms[39m
+[35m[39m
+2024-08-01 11:45:11:4511 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.367 ms[39m
+[35m[39m
+2024-08-01 11:45:11:4511 - [31merror[39m - [31mNão foi possível salvar o usuário! Erro: ValidationError: codigo_lista_presentes: Cast to ObjectId failed for value "123k4jh23f8hdsfs2" (type string) at path "codigo_lista_presentes" because of "BSONError", nome: Path `nome` is required.[39m
+2024-08-01 11:45:11:4511 - [35mhttp[39m - [35mPOST /users 500 12 - 11.414 ms[39m
+[35m[39m
+2024-08-01 11:45:23:4523 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.142 ms[39m
+[35m[39m
+2024-08-01 11:45:23:4523 - [31merror[39m - [31mNão foi possível salvar o usuário! Erro: ValidationError: nome: Path `nome` is required., codigo_lista_presentes: Path `codigo_lista_presentes` is required.[39m
+2024-08-01 11:45:23:4523 - [35mhttp[39m - [35mPOST /users 500 12 - 3.308 ms[39m
+[35m[39m
+2024-08-01 11:45:49:4549 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:45:49:4549 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:45:53:4553 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:45:53:4553 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:46:08:468 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:46:08:468 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:46:13:4613 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 6.080 ms[39m
+[35m[39m
+2024-08-01 11:46:13:4613 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 3.159 ms[39m
+[35m[39m
+2024-08-01 11:46:13:4613 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.061 ms[39m
+[35m[39m
+2024-08-01 11:46:13:4613 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 7118 - 0.871 ms[39m
+[35m[39m
+2024-08-01 11:46:13:4613 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 4.713 ms[39m
+[35m[39m
+2024-08-01 11:46:14:4614 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 2.298 ms[39m
+[35m[39m
+2024-08-01 11:46:18:4618 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.850 ms[39m
+[35m[39m
+2024-08-01 11:46:18:4618 - [31merror[39m - [31mNão foi possível salvar o usuário! Erro: ValidationError: _id: Cast to ObjectId failed for value "123kn123kn21389fsk" (type string) at path "_id" because of "BSONError", codigo_lista_presentes: Path `codigo_lista_presentes` is required.[39m
+2024-08-01 11:46:18:4618 - [35mhttp[39m - [35mPOST /users 500 12 - 14.683 ms[39m
+[35m[39m
+2024-08-01 11:46:26:4626 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.262 ms[39m
+[35m[39m
+2024-08-01 11:46:26:4626 - [31merror[39m - [31mNão foi possível salvar o usuário! Erro: ValidationError: codigo_lista_presentes: Path `codigo_lista_presentes` is required.[39m
+2024-08-01 11:46:26:4626 - [35mhttp[39m - [35mPOST /users 500 12 - 2.704 ms[39m
+[35m[39m
+2024-08-01 11:46:56:4656 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.240 ms[39m
+[35m[39m
+2024-08-01 11:48:18:4818 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.134 ms[39m
+[35m[39m
+2024-08-01 11:48:18:4818 - [35mhttp[39m - [35mPOST /users 200 295 - 42.494 ms[39m
+[35m[39m
+2024-08-01 11:48:26:4826 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.096 ms[39m
+[35m[39m
+2024-08-01 11:48:26:4826 - [35mhttp[39m - [35mPOST /users 200 295 - 38.451 ms[39m
+[35m[39m
+2024-08-01 11:48:33:4833 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.125 ms[39m
+[35m[39m
+2024-08-01 11:48:33:4833 - [35mhttp[39m - [35mPOST /users 200 295 - 32.523 ms[39m
+[35m[39m
+2024-08-01 11:48:36:4836 - [35mhttp[39m - [35mGET /users 200 1489 - 32.213 ms[39m
+[35m[39m
+2024-08-01 11:48:45:4845 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.269 ms[39m
+[35m[39m
+2024-08-01 11:48:45:4845 - [35mhttp[39m - [35mPOST /users 200 295 - 32.155 ms[39m
+[35m[39m
+2024-08-01 11:49:00:490 - [35mhttp[39m - [35mGET /users/66aba04dcb90ca1ff4e4fa34 200 295 - 29.095 ms[39m
+[35m[39m
+2024-08-01 11:49:26:4926 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.165 ms[39m
+[35m[39m
+2024-08-01 11:49:26:4926 - [35mhttp[39m - [35mPOST /users 200 309 - 34.823 ms[39m
+[35m[39m
+2024-08-01 11:49:38:4938 - [35mhttp[39m - [35mGET /users/66aba076cb90ca1ff4e4fa37 200 309 - 27.923 ms[39m
+[35m[39m
+2024-08-01 11:49:45:4945 - [35mhttp[39m - [35mGET /users 200 2095 - 28.676 ms[39m
+[35m[39m
+2024-08-01 11:50:22:5022 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:50:22:5022 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:50:36:5036 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:50:36:5036 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:51:36:5136 - [35mhttp[39m - [35mOPTIONS /users/66aba076cb90ca1ff4e4fa37 204 0 - 2.443 ms[39m
+[35m[39m
+2024-08-01 11:51:36:5136 - [35mhttp[39m - [35mPUT /users/66aba076cb90ca1ff4e4fa37 200 204 - 82.298 ms[39m
+[35m[39m
+2024-08-01 11:51:42:5142 - [35mhttp[39m - [35mGET /users/66aba076cb90ca1ff4e4fa37 200 323 - 44.972 ms[39m
+[35m[39m
+2024-08-01 11:52:01:521 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 6.934 ms[39m
+[35m[39m
+2024-08-01 11:52:02:522 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 4.134 ms[39m
+[35m[39m
+2024-08-01 11:52:02:522 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 7.584 ms[39m
+[35m[39m
+2024-08-01 11:52:02:522 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 8.924 ms[39m
+[35m[39m
+2024-08-01 11:52:02:522 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 6941 - 0.704 ms[39m
+[35m[39m
+2024-08-01 11:52:02:522 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 7.972 ms[39m
+[35m[39m
+2024-08-01 11:52:02:522 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-01 11:52:02:522 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-01 11:52:05:525 - [35mhttp[39m - [35mOPTIONS /users/66aba076cb90ca1ff4e4fa37 204 0 - 0.592 ms[39m
+[35m[39m
+2024-08-01 11:52:06:526 - [35mhttp[39m - [35mDELETE /users/66aba076cb90ca1ff4e4fa37 200 4 - 72.992 ms[39m
+[35m[39m
+2024-08-01 11:52:13:5213 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: Error: Usuário com ID 66aba076cb90ca1ff4e4fa37 não encontrado[39m
+2024-08-01 11:52:13:5213 - [35mhttp[39m - [35mGET /users/66aba076cb90ca1ff4e4fa37 500 12 - 26.254 ms[39m
+[35m[39m
