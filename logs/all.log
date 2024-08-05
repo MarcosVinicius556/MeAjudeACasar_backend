@@ -1051,3 +1051,43 @@
 2024-08-01 11:52:13:5213 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: Error: Usuário com ID 66aba076cb90ca1ff4e4fa37 não encontrado[39m
 2024-08-01 11:52:13:5213 - [35mhttp[39m - [35mGET /users/66aba076cb90ca1ff4e4fa37 500 12 - 26.254 ms[39m
 [35m[39m
+2024-08-05 19:27:39:2739 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-05 19:27:39:2739 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-05 19:27:44:2744 - [35mhttp[39m - [35mGET /api-docs 301 183 - 5.580 ms[39m
+[35m[39m
+2024-08-05 19:27:44:2744 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.280 ms[39m
+[35m[39m
+2024-08-05 19:27:44:2744 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 3.812 ms[39m
+[35m[39m
+2024-08-05 19:27:44:2744 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.635 ms[39m
+[35m[39m
+2024-08-05 19:27:44:2744 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.412 ms[39m
+[35m[39m
+2024-08-05 19:27:44:2744 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 3.451 ms[39m
+[35m[39m
+2024-08-05 19:27:45:2745 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 4.478 ms[39m
+[35m[39m
+2024-08-05 19:27:58:2758 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.560 ms[39m
+[35m[39m
+2024-08-05 19:27:59:2759 - [31merror[39m - [31mNão foi possível salvar o usuário! Erro: ValidationError: codigo_lista_presentes: Cast to ObjectId failed for value "string" (type string) at path "codigo_lista_presentes" because of "BSONError"[39m
+2024-08-05 19:27:59:2759 - [35mhttp[39m - [35mPOST /users 500 12 - 361.683 ms[39m
+[35m[39m
+2024-08-05 19:28:09:289 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.308 ms[39m
+[35m[39m
+2024-08-05 19:28:10:2810 - [31merror[39m - [31mNão foi possível salvar o usuário! Erro: ValidationError: codigo_lista_presentes: Path `codigo_lista_presentes` is required.[39m
+2024-08-05 19:28:10:2810 - [35mhttp[39m - [35mPOST /users 500 12 - 400.131 ms[39m
+[35m[39m
+2024-08-05 19:28:23:2823 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.165 ms[39m
+[35m[39m
+2024-08-05 19:29:07:297 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.127 ms[39m
+[35m[39m
+2024-08-05 19:29:22:2922 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.158 ms[39m
+[35m[39m
+2024-08-05 19:29:31:2931 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.185 ms[39m
+[35m[39m
+2024-08-05 19:29:45:2945 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.249 ms[39m
+[35m[39m
+2024-08-05 19:29:46:2946 - [35mhttp[39m - [35mPOST /users 200 345 - 419.445 ms[39m
+[35m[39m
+2024-08-05 19:30:18:3018 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-05 19:30:18:3018 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m

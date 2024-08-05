@@ -1,5 +1,6 @@
 import { IUser, UserModel } from "../models/User"
 import Logger from "../../config/logger";
+import bcrypt from 'bcrypt';
 
 export default function UserService() {
 
@@ -16,7 +17,7 @@ export default function UserService() {
 
     const findById = async (id: string): Promise<IUser> => {
         try {
-            const user = await UserModel.findById(id);    
+            const user = await UserModel.findById(id, '-senha');    
             if (!user) {
                 throw new Error(`Usuário com ID ${id} não encontrado`);
             }
@@ -29,6 +30,10 @@ export default function UserService() {
 
     const insert = async (user: IUser): Promise<IUser> => {
         try {
+            const salt = await bcrypt.genSalt(12);
+            const passwordHash = await bcrypt.hash(user.senha, salt);
+
+            user.senha = passwordHash;
             const u = await UserModel.create(user);    
             return u;
         } catch (error) {
