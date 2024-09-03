@@ -1091,3 +1091,474 @@
 [35m[39m
 2024-08-05 19:30:18:3018 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
 2024-08-05 19:30:18:3018 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-05 19:43:25:4325 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-05 19:43:25:4325 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-30 08:25:39:2539 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-08-30 08:25:39:2539 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-08-30 08:27:15:2715 - [35mhttp[39m - [35mGET /docs 404 143 - 4.812 ms[39m
+[35m[39m
+2024-08-30 08:27:22:2722 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 6.355 ms[39m
+[35m[39m
+2024-08-30 08:27:22:2722 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 2.822 ms[39m
+[35m[39m
+2024-08-30 08:27:22:2722 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 7811 - 0.415 ms[39m
+[35m[39m
+2024-08-30 08:27:22:2722 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 18.066 ms[39m
+[35m[39m
+2024-08-30 08:27:22:2722 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 43.641 ms[39m
+[35m[39m
+2024-08-30 08:27:23:2723 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.202 ms[39m
+[35m[39m
+2024-09-03 15:33:07:337 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:33:07:337 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:33:15:3315 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:33:15:3315 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:33:30:3330 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:33:30:3330 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:33:50:3350 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:33:50:3350 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:34:08:348 - [35mhttp[39m - [35mGET //api-doces 404 149 - 3.627 ms[39m
+[35m[39m
+2024-09-03 15:34:12:3412 - [35mhttp[39m - [35mGET //api-docs 404 148 - 0.887 ms[39m
+[35m[39m
+2024-09-03 15:34:15:3415 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 2.488 ms[39m
+[35m[39m
+2024-09-03 15:34:15:3415 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 7811 - 0.345 ms[39m
+[35m[39m
+2024-09-03 15:34:15:3415 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 5.310 ms[39m
+[35m[39m
+2024-09-03 15:34:15:3415 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 5.308 ms[39m
+[35m[39m
+2024-09-03 15:34:15:3415 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 6.112 ms[39m
+[35m[39m
+2024-09-03 15:38:00:380 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 18.828 ms[39m
+[35m[39m
+2024-09-03 15:38:00:380 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 6941 - 0.915 ms[39m
+[35m[39m
+2024-09-03 15:38:00:380 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 8.819 ms[39m
+[35m[39m
+2024-09-03 15:38:00:380 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 9.839 ms[39m
+[35m[39m
+2024-09-03 15:38:00:380 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 8.312 ms[39m
+[35m[39m
+2024-09-03 15:38:01:381 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.886 ms[39m
+[35m[39m
+2024-09-03 15:38:02:382 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:38:02:382 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:38:04:384 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 0.821 ms[39m
+[35m[39m
+2024-09-03 15:38:04:384 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.238 ms[39m
+[35m[39m
+2024-09-03 15:38:04:384 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 5.155 ms[39m
+[35m[39m
+2024-09-03 15:38:04:384 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 5.970 ms[39m
+[35m[39m
+2024-09-03 15:38:04:384 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 6.737 ms[39m
+[35m[39m
+2024-09-03 15:38:04:384 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.872 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 0.714 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.371 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 4.305 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 5.272 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 6.527 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.077 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 0.648 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.220 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 3.264 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.109 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 4.941 ms[39m
+[35m[39m
+2024-09-03 15:38:06:386 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.766 ms[39m
+[35m[39m
+2024-09-03 15:38:10:3810 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 1.011 ms[39m
+[35m[39m
+2024-09-03 15:38:10:3810 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css.map 200 262651 - 3.744 ms[39m
+[35m[39m
+2024-09-03 15:39:08:398 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.095 ms[39m
+[35m[39m
+2024-09-03 15:39:08:398 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 1.859 ms[39m
+[35m[39m
+2024-09-03 15:39:08:398 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 7344 - 0.671 ms[39m
+[35m[39m
+2024-09-03 15:39:08:398 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.993 ms[39m
+[35m[39m
+2024-09-03 15:39:08:398 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 5.858 ms[39m
+[35m[39m
+2024-09-03 15:39:08:398 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.928 ms[39m
+[35m[39m
+2024-09-03 15:39:12:3912 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:39:12:3912 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:39:33:3933 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.655 ms[39m
+[35m[39m
+2024-09-03 15:39:33:3933 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:39:33:3933 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:39:33:3933 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 2.577 ms[39m
+[35m[39m
+2024-09-03 15:39:33:3933 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.163 ms[39m
+[35m[39m
+2024-09-03 15:39:33:3933 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 6941 - 0.628 ms[39m
+[35m[39m
+2024-09-03 15:39:33:3933 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 4.950 ms[39m
+[35m[39m
+2024-09-03 15:39:33:3933 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.846 ms[39m
+[35m[39m
+2024-09-03 15:39:34:3934 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 0.995 ms[39m
+[35m[39m
+2024-09-03 15:39:34:3934 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.215 ms[39m
+[35m[39m
+2024-09-03 15:39:34:3934 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 3.495 ms[39m
+[35m[39m
+2024-09-03 15:39:34:3934 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 5.505 ms[39m
+[35m[39m
+2024-09-03 15:39:34:3934 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 6.768 ms[39m
+[35m[39m
+2024-09-03 15:39:34:3934 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.011 ms[39m
+[35m[39m
+2024-09-03 15:39:41:3941 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:39:41:3941 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:39:41:3941 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.422 ms[39m
+[35m[39m
+2024-09-03 15:39:41:3941 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.422 ms[39m
+[35m[39m
+2024-09-03 15:39:41:3941 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 6.927 ms[39m
+[35m[39m
+2024-09-03 15:39:41:3941 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 8.131 ms[39m
+[35m[39m
+2024-09-03 15:39:41:3941 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 8.582 ms[39m
+[35m[39m
+2024-09-03 15:39:41:3941 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 2.279 ms[39m
+[35m[39m
+2024-09-03 15:39:42:3942 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 0.670 ms[39m
+[35m[39m
+2024-09-03 15:39:42:3942 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.194 ms[39m
+[35m[39m
+2024-09-03 15:39:42:3942 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 3.816 ms[39m
+[35m[39m
+2024-09-03 15:39:42:3942 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.740 ms[39m
+[35m[39m
+2024-09-03 15:39:42:3942 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 5.675 ms[39m
+[35m[39m
+2024-09-03 15:39:42:3942 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.821 ms[39m
+[35m[39m
+2024-09-03 15:39:43:3943 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 0.681 ms[39m
+[35m[39m
+2024-09-03 15:39:43:3943 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.297 ms[39m
+[35m[39m
+2024-09-03 15:39:43:3943 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 2.815 ms[39m
+[35m[39m
+2024-09-03 15:39:43:3943 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.295 ms[39m
+[35m[39m
+2024-09-03 15:39:43:3943 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 5.823 ms[39m
+[35m[39m
+2024-09-03 15:39:43:3943 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.981 ms[39m
+[35m[39m
+2024-09-03 15:41:01:411 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 6.680 ms[39m
+[35m[39m
+2024-09-03 15:41:01:411 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.410 ms[39m
+[35m[39m
+2024-09-03 15:41:01:411 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 6.219 ms[39m
+[35m[39m
+2024-09-03 15:41:01:411 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 8.012 ms[39m
+[35m[39m
+2024-09-03 15:41:01:411 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 9.348 ms[39m
+[35m[39m
+2024-09-03 15:41:01:411 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.939 ms[39m
+[35m[39m
+2024-09-03 15:41:02:412 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:41:02:412 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:41:02:412 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 0.847 ms[39m
+[35m[39m
+2024-09-03 15:41:02:412 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.289 ms[39m
+[35m[39m
+2024-09-03 15:41:02:412 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 5.047 ms[39m
+[35m[39m
+2024-09-03 15:41:02:412 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 5.941 ms[39m
+[35m[39m
+2024-09-03 15:41:02:412 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 6.779 ms[39m
+[35m[39m
+2024-09-03 15:41:02:412 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.784 ms[39m
+[35m[39m
+2024-09-03 15:41:42:4142 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.854 ms[39m
+[35m[39m
+2024-09-03 15:41:42:4142 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 6.099 ms[39m
+[35m[39m
+2024-09-03 15:41:42:4142 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 7713 - 0.465 ms[39m
+[35m[39m
+2024-09-03 15:41:42:4142 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.613 ms[39m
+[35m[39m
+2024-09-03 15:41:42:4142 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 6.073 ms[39m
+[35m[39m
+2024-09-03 15:41:42:4142 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.952 ms[39m
+[35m[39m
+2024-09-03 15:41:43:4143 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:41:43:4143 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:42:32:4232 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 3.818 ms[39m
+[35m[39m
+2024-09-03 15:42:32:4232 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 3.159 ms[39m
+[35m[39m
+2024-09-03 15:42:32:4232 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.597 ms[39m
+[35m[39m
+2024-09-03 15:42:32:4232 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 8468 - 0.589 ms[39m
+[35m[39m
+2024-09-03 15:42:32:4232 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 4.342 ms[39m
+[35m[39m
+2024-09-03 15:42:32:4232 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:42:32:4232 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:42:32:4232 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.063 ms[39m
+[35m[39m
+2024-09-03 15:42:52:4252 - [35mhttp[39m - [35mOPTIONS /auth 204 0 - 0.610 ms[39m
+[35m[39m
+2024-09-03 15:42:52:4252 - [35mhttp[39m - [35mPOST /auth 404 144 - 2.193 ms[39m
+[35m[39m
+2024-09-03 15:43:13:4313 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:43:13:4313 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:43:22:4322 - [35mhttp[39m - [35mOPTIONS /auth 204 0 - 1.512 ms[39m
+[35m[39m
+2024-09-03 15:43:22:4322 - [35mhttp[39m - [35mPOST /auth 404 144 - 1.361 ms[39m
+[35m[39m
+2024-09-03 15:43:24:4324 - [35mhttp[39m - [35mPOST /auth 404 144 - 0.418 ms[39m
+[35m[39m
+2024-09-03 15:45:37:4537 - [35mhttp[39m - [35mOPTIONS /auth 204 0 - 0.250 ms[39m
+[35m[39m
+2024-09-03 15:46:13:4613 - [35mhttp[39m - [35mOPTIONS /auth 204 0 - 0.170 ms[39m
+[35m[39m
+2024-09-03 15:46:13:4613 - [35mhttp[39m - [35mPOST /auth 404 144 - 0.594 ms[39m
+[35m[39m
+2024-09-03 15:46:58:4658 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:46:58:4658 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:47:01:471 - [35mhttp[39m - [35mOPTIONS /auth 204 0 - 1.419 ms[39m
+[35m[39m
+2024-09-03 15:47:01:471 - [35mhttp[39m - [35mPOST /auth 404 144 - 1.006 ms[39m
+[35m[39m
+2024-09-03 15:47:25:4725 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:47:25:4725 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:47:34:4734 - [35mhttp[39m - [35mOPTIONS /auth 204 0 - 1.408 ms[39m
+[35m[39m
+2024-09-03 15:47:34:4734 - [35mhttp[39m - [35mPOST /auth 404 144 - 1.106 ms[39m
+[35m[39m
+2024-09-03 15:47:35:4735 - [35mhttp[39m - [35mPOST /auth 404 144 - 0.359 ms[39m
+[35m[39m
+2024-09-03 15:48:06:486 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:48:06:486 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:48:22:4822 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.106 ms[39m
+[35m[39m
+2024-09-03 15:48:22:4822 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 8478 - 0.518 ms[39m
+[35m[39m
+2024-09-03 15:48:22:4822 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 5.787 ms[39m
+[35m[39m
+2024-09-03 15:48:22:4822 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 5.750 ms[39m
+[35m[39m
+2024-09-03 15:48:22:4822 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 6.671 ms[39m
+[35m[39m
+2024-09-03 15:48:22:4822 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.103 ms[39m
+[35m[39m
+2024-09-03 15:48:22:4822 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:48:22:4822 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:48:35:4835 - [35mhttp[39m - [35mOPTIONS /auth/generate 204 0 - 0.660 ms[39m
+[35m[39m
+2024-09-03 15:48:36:4836 - [35mhttp[39m - [35mPOST /auth/generate 500 48 - 48.000 ms[39m
+[35m[39m
+2024-09-03 15:49:06:496 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:49:06:496 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:50:10:5010 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:50:10:5010 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:52:22:5222 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:52:22:5222 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:52:23:5223 - [35mhttp[39m - [35mOPTIONS /auth/generate 204 0 - 1.274 ms[39m
+[35m[39m
+2024-09-03 15:52:23:5223 - [35mhttp[39m - [35mPOST /auth/generate 200 323 - 45.594 ms[39m
+[35m[39m
+2024-09-03 15:54:02:542 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:54:02:542 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:54:52:5452 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:54:53:5453 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:54:53:5453 - [35mhttp[39m - [35mOPTIONS /auth/generate 204 0 - 1.540 ms[39m
+[35m[39m
+2024-09-03 15:54:53:5453 - [35mhttp[39m - [35mPOST /auth/generate 200 313 - 52.470 ms[39m
+[35m[39m
+2024-09-03 15:55:49:5549 - [35mhttp[39m - [35mGET /users 403 12 - 1.033 ms[39m
+[35m[39m
+2024-09-03 15:56:54:5654 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:56:54:5654 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:57:03:573 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.488 ms[39m
+[35m[39m
+2024-09-03 15:57:03:573 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.269 ms[39m
+[35m[39m
+2024-09-03 15:57:03:573 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 4.304 ms[39m
+[35m[39m
+2024-09-03 15:57:03:573 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 5.164 ms[39m
+[35m[39m
+2024-09-03 15:57:03:573 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 5.935 ms[39m
+[35m[39m
+2024-09-03 15:57:03:573 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.139 ms[39m
+[35m[39m
+2024-09-03 15:58:56:5856 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 15:58:56:5856 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 15:58:57:5857 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.459 ms[39m
+[35m[39m
+2024-09-03 15:58:57:5857 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 9859 - 0.813 ms[39m
+[35m[39m
+2024-09-03 15:58:57:5857 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 6.228 ms[39m
+[35m[39m
+2024-09-03 15:58:57:5857 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 7.349 ms[39m
+[35m[39m
+2024-09-03 15:58:57:5857 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 7.607 ms[39m
+[35m[39m
+2024-09-03 15:58:57:5857 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 0.811 ms[39m
+[35m[39m
+2024-09-03 15:59:04:594 - [35mhttp[39m - [35mGET /users 403 12 - 1.282 ms[39m
+[35m[39m
+2024-09-03 15:59:30:5930 - [35mhttp[39m - [35mOPTIONS /auth/generate 204 0 - 0.532 ms[39m
+[35m[39m
+2024-09-03 15:59:30:5930 - [35mhttp[39m - [35mPOST /auth/generate 200 313 - 42.319 ms[39m
+[35m[39m
+2024-09-03 15:59:40:5940 - [35mhttp[39m - [35mGET /users 403 12 - 0.597 ms[39m
+[35m[39m
+2024-09-03 16:00:03:03 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:00:03:03 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:00:19:019 - [35mhttp[39m - [35mGET /users 403 12 - 5.165 ms[39m
+[35m[39m
+2024-09-03 16:00:20:020 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:00:20:020 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:00:25:025 - [35mhttp[39m - [35mGET /users 403 12 - 0.837 ms[39m
+[35m[39m
+2024-09-03 16:00:27:027 - [35mhttp[39m - [35mGET /users 403 12 - 0.352 ms[39m
+[35m[39m
+2024-09-03 16:07:48:748 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:07:48:748 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:07:51:751 - [35mhttp[39m - [35mGET /users 403 12 - 2.614 ms[39m
+[35m[39m
+2024-09-03 16:08:01:81 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:08:01:81 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:08:02:82 - [35mhttp[39m - [35mGET /users 403 12 - 7.327 ms[39m
+[35m[39m
+2024-09-03 16:08:08:88 - [35mhttp[39m - [35mGET /users 403 12 - 4.224 ms[39m
+[35m[39m
+2024-09-03 16:08:09:89 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:08:09:89 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:08:27:827 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:08:27:827 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:08:27:827 - [35mhttp[39m - [35mGET /users 403 12 - 5.648 ms[39m
+[35m[39m
+2024-09-03 16:08:42:842 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:08:42:842 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:08:43:843 - [35mhttp[39m - [35mGET /users 403 12 - 12.225 ms[39m
+[35m[39m
+2024-09-03 16:21:29:2129 - [31merror[39m - [31mNão foi possível iniciar a conexão com o banco de dados. Erro: Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.g9rdhby.mongodb.net[39m
+2024-09-03 16:21:29:2129 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:21:42:2142 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:21:42:2142 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:22:12:2212 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:22:12:2212 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:22:26:2226 - [35mhttp[39m - [35mGET /users 403 48 - 5.383 ms[39m
+[35m[39m
+2024-09-03 16:22:45:2245 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:22:45:2245 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:22:46:2246 - [35mhttp[39m - [35mGET /users 403 38 - 6.062 ms[39m
+[35m[39m
+2024-09-03 16:23:36:2336 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:23:36:2336 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:23:42:2342 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:23:42:2342 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:25:10:2510 - [35mhttp[39m - [35mGET /users 403 48 - 2.670 ms[39m
+[35m[39m
+2024-09-03 16:26:09:269 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:26:09:269 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:26:12:2612 - [35mhttp[39m - [35mGET /users 403 48 - 2.583 ms[39m
+[35m[39m
+2024-09-03 16:26:14:2614 - [35mhttp[39m - [35mGET /users 403 48 - 0.523 ms[39m
+[35m[39m
+2024-09-03 16:26:15:2615 - [35mhttp[39m - [35mGET /users 403 48 - 0.408 ms[39m
+[35m[39m
+2024-09-03 16:31:18:3118 - [35mhttp[39m - [35mGET /users 403 48 - 0.993 ms[39m
+[35m[39m
+2024-09-03 16:35:56:3556 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:35:56:3556 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:36:02:362 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:36:02:362 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:36:03:363 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 5.822 ms[39m
+[35m[39m
+2024-09-03 16:36:03:363 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 9816 - 0.630 ms[39m
+[35m[39m
+2024-09-03 16:36:03:363 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 7.097 ms[39m
+[35m[39m
+2024-09-03 16:36:03:363 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 8.510 ms[39m
+[35m[39m
+2024-09-03 16:36:03:363 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 10.126 ms[39m
+[35m[39m
+2024-09-03 16:36:03:363 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.287 ms[39m
+[35m[39m
+2024-09-03 16:36:24:3624 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.464 ms[39m
+[35m[39m
+2024-09-03 16:36:24:3624 - [35mhttp[39m - [35mGET /users 403 48 - 2.010 ms[39m
+[35m[39m
+2024-09-03 16:37:37:3737 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 6.798 ms[39m
+[35m[39m
+2024-09-03 16:37:37:3737 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 3.726 ms[39m
+[35m[39m
+2024-09-03 16:37:37:3737 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.527 ms[39m
+[35m[39m
+2024-09-03 16:37:37:3737 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 9818 - 0.808 ms[39m
+[35m[39m
+2024-09-03 16:37:37:3737 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 9.234 ms[39m
+[35m[39m
+2024-09-03 16:37:37:3737 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 2.148 ms[39m
+[35m[39m
+2024-09-03 16:37:41:3741 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:37:41:3741 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:37:55:3755 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.701 ms[39m
+[35m[39m
+2024-09-03 16:37:55:3755 - [35mhttp[39m - [35mGET /users 403 48 - 1.473 ms[39m
+[35m[39m
+2024-09-03 16:38:05:385 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:38:05:385 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:38:13:3813 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 7.460 ms[39m
+[35m[39m
+2024-09-03 16:38:13:3813 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 3.033 ms[39m
+[35m[39m
+2024-09-03 16:38:13:3813 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.111 ms[39m
+[35m[39m
+2024-09-03 16:38:13:3813 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 9816 - 0.651 ms[39m
+[35m[39m
+2024-09-03 16:38:13:3813 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 5.451 ms[39m
+[35m[39m
+2024-09-03 16:38:13:3813 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.072 ms[39m
+[35m[39m
+2024-09-03 16:38:23:3823 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.501 ms[39m
+[35m[39m
+2024-09-03 16:38:23:3823 - [35mhttp[39m - [35mGET /users 200 2131 - 46.166 ms[39m
+[35m[39m
+2024-09-03 16:39:47:3947 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 9.854 ms[39m
+[35m[39m
+2024-09-03 16:39:48:3948 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 200 9122 - 0.890 ms[39m
+[35m[39m
+2024-09-03 16:39:48:3948 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 28.046 ms[39m
+[35m[39m
+2024-09-03 16:39:48:3948 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 31.248 ms[39m
+[35m[39m
+2024-09-03 16:39:48:3948 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 49.139 ms[39m
+[35m[39m
+2024-09-03 16:39:48:3948 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.657 ms[39m
+[35m[39m
+2024-09-03 16:39:49:3949 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:39:49:3949 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:39:56:3956 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 0.599 ms[39m
+[35m[39m
+2024-09-03 16:39:56:3956 - [35mhttp[39m - [35mGET /users 304 - - 40.867 ms[39m
+[35m[39m
+2024-09-03 16:40:07:407 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 0.264 ms[39m
+[35m[39m
+2024-09-03 16:40:07:407 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-03 16:40:07:407 - [35mhttp[39m - [35mGET /users/1 500 12 - 6.670 ms[39m
+[35m[39m

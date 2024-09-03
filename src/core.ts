@@ -17,6 +17,7 @@ import startDatabaseConnection from '../config/databaseConnection';
 
 //Routes
 import userRouter from './routes/userRoutes';
+import authRouter from './routes/authRoutes';
 
 /**
  * Core Application
@@ -35,6 +36,7 @@ core.use(cors());
 */
 core.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 core.use('/users', userRouter);
+core.use('/auth', authRouter)
 
 const port = config.get<number>('port');
 
