@@ -6,6 +6,7 @@ import Logger from '../config/logger';
 
 //Middlewares
 import morganMiddleware from './middlewares/morganMiddleware';
+import ExceptionHandler from './middlewares/exceptionHandlerMiddleware';
 import cors from 'cors';
 
 //OpenAPI - Swagger
@@ -23,12 +24,6 @@ import authRouter from './routes/authRoutes';
  * Core Application
  */
 const core = express();
-
-/**
- * Middleware configs
-*/
-core.use(express.json());
-core.use(morganMiddleware);
 core.use(cors());
 
 /**
@@ -37,6 +32,13 @@ core.use(cors());
 core.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 core.use('/users', userRouter);
 core.use('/auth', authRouter)
+
+/**
+ * Middleware configs
+*/
+core.use(express.json());
+core.use(morganMiddleware);
+core.use(ExceptionHandler);
 
 const port = config.get<number>('port');
 

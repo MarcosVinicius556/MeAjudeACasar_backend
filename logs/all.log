@@ -1562,3 +1562,168 @@
 2024-09-03 16:40:07:407 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
 2024-09-03 16:40:07:407 - [35mhttp[39m - [35mGET /users/1 500 12 - 6.670 ms[39m
 [35m[39m
+2024-09-03 16:40:38:4038 - [35mhttp[39m - [35mOPTIONS /users 204 0 - 1.526 ms[39m
+[35m[39m
+2024-09-03 16:40:39:4039 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-03 16:40:39:4039 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-03 16:40:39:4039 - [35mhttp[39m - [35mGET /users 304 - - 314.262 ms[39m
+[35m[39m
+2024-09-03 16:40:40:4040 - [35mhttp[39m - [35mGET /users 304 - - 33.228 ms[39m
+[35m[39m
+2024-09-03 16:40:41:4041 - [35mhttp[39m - [35mGET /users 304 - - 30.308 ms[39m
+[35m[39m
+2024-09-03 16:40:41:4041 - [35mhttp[39m - [35mGET /users 304 - - 42.212 ms[39m
+[35m[39m
+2024-09-04 14:24:07:247 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:24:07:247 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:24:29:2429 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:24:29:2429 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:25:33:2533 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:25:33:2533 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:25:40:2540 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 4.031 ms[39m
+[35m[39m
+2024-09-04 14:25:40:2540 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.593 ms[39m
+[35m[39m
+2024-09-04 14:25:40:2540 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 5.325 ms[39m
+[35m[39m
+2024-09-04 14:25:40:2540 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 9.082 ms[39m
+[35m[39m
+2024-09-04 14:25:40:2540 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 7.509 ms[39m
+[35m[39m
+2024-09-04 14:25:40:2540 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.208 ms[39m
+[35m[39m
+2024-09-04 14:25:57:2557 - [35mhttp[39m - [35mOPTIONS /auth/generate 204 0 - 0.719 ms[39m
+[35m[39m
+2024-09-04 14:25:57:2557 - [35mhttp[39m - [35mPOST /auth/generate 200 313 - 39.744 ms[39m
+[35m[39m
+2024-09-04 14:26:19:2619 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 0.418 ms[39m
+[35m[39m
+2024-09-04 14:26:19:2619 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:26:42:2642 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:26:42:2642 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:26:44:2644 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 1.061 ms[39m
+[35m[39m
+2024-09-04 14:26:44:2644 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:26:44:2644 - [35mhttp[39m - [35mGET /users/1 500 12 - 9.253 ms[39m
+[35m[39m
+2024-09-04 14:28:03:283 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:28:03:283 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:28:10:2810 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 1.233 ms[39m
+[35m[39m
+2024-09-04 14:28:10:2810 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:28:10:2810 - [35mhttp[39m - [35mGET /users/1 500 788 - 15.622 ms[39m
+[35m[39m
+2024-09-04 14:28:28:2828 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 0.279 ms[39m
+[35m[39m
+2024-09-04 14:28:28:2828 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:28:28:2828 - [35mhttp[39m - [35mGET /users/1 500 788 - 5.487 ms[39m
+[35m[39m
+2024-09-04 14:28:54:2854 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:28:54:2854 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:28:55:2855 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 2.177 ms[39m
+[35m[39m
+2024-09-04 14:28:55:2855 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:31:21:3121 - [35mhttp[39m - [35mGET /users/1 500 2010 - 9.901 ms[39m
+[35m[39m
+2024-09-04 14:31:25:3125 - [31merror[39m - [31mNão foi possível iniciar a conexão com o banco de dados. Erro: Error: queryTxt ESERVFAIL cluster0.g9rdhby.mongodb.net[39m
+2024-09-04 14:31:25:3125 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:31:31:3131 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:31:31:3131 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:31:37:3137 - [35mhttp[39m - [35mOPTIONS /users/1 500 2010 - 10.971 ms[39m
+[35m[39m
+2024-09-04 14:32:18:3218 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:32:18:3218 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:32:27:3227 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 1.490 ms[39m
+[35m[39m
+2024-09-04 14:32:27:3227 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:32:32:3232 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:32:32:3232 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:32:42:3242 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 0.217 ms[39m
+[35m[39m
+2024-09-04 14:33:01:331 - [35mhttp[39m - [35mGET /api-docs/ 304 - - 2.963 ms[39m
+[35m[39m
+2024-09-04 14:33:01:331 - [35mhttp[39m - [35mGET /users/1 - - - - ms[39m
+[35m[39m
+2024-09-04 14:33:01:331 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-init.js 304 - - 0.261 ms[39m
+[35m[39m
+2024-09-04 14:33:01:331 - [35mhttp[39m - [35mGET /api-docs/swagger-ui.css 304 - - 4.011 ms[39m
+[35m[39m
+2024-09-04 14:33:01:331 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-bundle.js 304 - - 4.585 ms[39m
+[35m[39m
+2024-09-04 14:33:01:331 - [35mhttp[39m - [35mGET /api-docs/swagger-ui-standalone-preset.js 304 - - 5.097 ms[39m
+[35m[39m
+2024-09-04 14:33:01:331 - [35mhttp[39m - [35mGET /api-docs/favicon-32x32.png 304 - - 1.078 ms[39m
+[35m[39m
+2024-09-04 14:33:15:3315 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 0.115 ms[39m
+[35m[39m
+2024-09-04 14:33:15:3315 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:33:24:3324 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:33:24:3324 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:33:24:3324 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:33:28:3328 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:33:28:3328 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:33:31:3331 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 1.146 ms[39m
+[35m[39m
+2024-09-04 14:33:31:3331 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:33:31:3331 - [35mhttp[39m - [35mGET /users/1 500 788 - 16.007 ms[39m
+[35m[39m
+2024-09-04 14:34:57:3457 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:34:57:3457 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:35:16:3516 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:35:16:3516 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:35:53:3553 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:35:53:3553 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:35:58:3558 - [35mhttp[39m - [35mOPTIONS /users/1 204 0 - 1.154 ms[39m
+[35m[39m
+2024-09-04 14:35:58:3558 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:35:58:3558 - [35mhttp[39m - [35mGET /users/1 500 166 - 10.979 ms[39m
+[35m[39m
+2024-09-04 14:36:17:3617 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:36:17:3617 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:36:34:3634 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:36:34:3634 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:36:35:3635 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:36:54:3654 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:36:54:3654 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:37:05:375 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:37:05:375 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:37:06:376 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:37:47:3747 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:37:47:3747 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:37:48:3748 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:37:57:3757 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:38:19:3819 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:38:19:3819 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:38:23:3823 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:38:33:3833 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:38:34:3834 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:38:34:3834 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:38:39:3839 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:39:04:394 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "'123'" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:39:09:399 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "abshjakjsdfklnfsda" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:39:14:3914 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "abshjakjsdfklnfsda" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:40:15:4015 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "'66aac7b97cc1208f707239c0'" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:41:36:4136 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "'66aac7b97cc1208f707239c0'" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:41:37:4137 - [31merror[39m - [31mNão foi possível iniciar a conexão com o banco de dados. Erro: Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.g9rdhby.mongodb.net[39m
+2024-09-04 14:41:37:4137 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:41:48:4148 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "'66aac7b97cc1208f707239c0'" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:41:59:4159 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:41:59:4159 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:42:02:422 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "'66aac7b97cc1208f707239c0'" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:42:19:4219 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:42:19:4219 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:42:22:4222 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:42:22:4222 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:43:04:434 - [31merror[39m - [31mNão foi possível iniciar a conexão com o banco de dados. Erro: Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.g9rdhby.mongodb.net[39m
+2024-09-04 14:43:04:434 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:43:29:4329 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:43:29:4329 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:44:56:4456 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:44:56:4456 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:45:05:455 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:45:05:455 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:45:08:458 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: CastError: Cast to ObjectId failed for value "'66aac7b97cc1208f707239c0'" (type string) at path "_id" for model "User"[39m
+2024-09-04 14:46:04:464 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:46:04:464 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-04 14:46:12:4612 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-04 14:46:12:4612 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m

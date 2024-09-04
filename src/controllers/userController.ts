@@ -1,21 +1,21 @@
-import { Request, Response } from "express";
+import { NextFunction, Request, Response } from "express";
 
 //Services
 import UserService from "../services/userService";
 import { IUser } from "../models/User";
 
-export const findAll = async (req: Request, res: Response) => {
+export const findAll = async (req: Request, res: Response, next: NextFunction) => {
     const userService = UserService();
     try {
         const users = await userService.findAll();
         
         return res.status(200).json(users);
     } catch (error) {
-        return res.status(500).json({ error });
+        next(error);
     }
 }
 
-export const findById = async (req: Request, res: Response) => {
+export const findById = async (req: Request, res: Response, next: NextFunction) => {
     const userService = UserService();
     try {
         const id = req.params.id;
@@ -23,11 +23,11 @@ export const findById = async (req: Request, res: Response) => {
         
         return res.status(200).json(user);
     } catch (error) {
-        return res.status(500).json({ error });
+        next(error);
     }
 }
 
-export const insert = async (req: Request, res: Response) => {
+export const insert = async (req: Request, res: Response, next: NextFunction) => {
     const userService = UserService();
     try {
         const newUser: IUser = req.body;
@@ -35,11 +35,11 @@ export const insert = async (req: Request, res: Response) => {
         
         return res.status(200).json(user);
     } catch (error) {
-        return res.status(500).json({ error });
+        next(error);
     }
 }
 
-export const update = async (req: Request, res: Response) => {
+export const update = async (req: Request, res: Response, next: NextFunction) => {
     const userService = UserService();
     try {
         const id = req.params.id;
@@ -48,11 +48,11 @@ export const update = async (req: Request, res: Response) => {
         
         return res.status(200).json(userUpdated);
     } catch (error) {
-        return res.status(500).json({ error });
+        next(error);
     }
 }
 
-export const remove = async (req: Request, res: Response) => {
+export const remove = async (req: Request, res: Response, next: NextFunction) => {
     const userService = UserService();
     try {
         const id = req.params.id;
@@ -60,7 +60,7 @@ export const remove = async (req: Request, res: Response) => {
         
         return res.status(200).json(isRemoved);
     } catch (error) {
-        return res.status(500).json({ error });
+        next(error);
     }
 }
 
