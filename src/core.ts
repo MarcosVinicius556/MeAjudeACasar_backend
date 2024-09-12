@@ -25,6 +25,7 @@ import authRouter from './routes/authRoutes';
  */
 const core = express();
 core.use(cors());
+core.use(express.json());
 
 /**
  * Routes configs
@@ -33,10 +34,7 @@ core.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 core.use('/users', userRouter);
 core.use('/auth', authRouter)
 
-/**
- * Middleware configs
-*/
-core.use(express.json());
+
 core.use(morganMiddleware);
 core.use(ExceptionHandler);
 

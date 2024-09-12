@@ -25,7 +25,7 @@ export const authenticateUserAccess = async (req: Request, res: Response, next: 
         if(!auth)
             throw new InvalidCredentialsException("Nenhum token de acesso informado");
         let token = auth.replace('Bearer ', '');
-        var autheticated = authService.validateToken(token);
+        let autheticated = authService.validateToken(token);
 
         if(!autheticated)
             throw new InvalidCredentialsException(token);

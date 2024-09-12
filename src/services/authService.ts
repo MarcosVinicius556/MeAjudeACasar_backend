@@ -24,9 +24,8 @@ export default function AuthService() {
 
         if(!user) throw new InvalidCredentialsException({ email: email });
 
-        // let isCorrectPassword = await bcrypt.compare(senha, user.senha); //Necessário alterar para começar a receber e salvar senha criptografada
-        let isCorrectPassword = senha === user.senha;
-
+        let isCorrectPassword = await bcrypt.compare(senha, user.senha);
+        
         if(!isCorrectPassword) throw new InvalidCredentialsException({ email: email, senha: senha });
 
         const expiresIn = '8h';
