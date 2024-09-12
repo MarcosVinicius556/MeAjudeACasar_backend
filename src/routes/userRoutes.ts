@@ -121,7 +121,7 @@ userRouter.post('/', authenticateUserAccess, insert);
 /**
  * @openapi
  * /users/{id}:
- *   post:
+ *   put:
  *     summary: Atualiza o registro de um usuário no banco
  *     security:
  *      - BearerToken: []
