@@ -19,6 +19,7 @@ import startDatabaseConnection from '../config/databaseConnection';
 //Routes
 import userRouter from './routes/userRoutes';
 import giftsRouter from './routes/gifListRoutes';
+import giftRouter from './routes/giftRoutes';
 import authRouter from './routes/authRoutes';
 
 /**
@@ -34,6 +35,7 @@ core.use(cors());
 core.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 core.use('/users', userRouter);
 core.use('/gift-list', giftsRouter);
+core.use('/gifts', giftRouter);
 core.use('/auth', authRouter)
 
 /**
