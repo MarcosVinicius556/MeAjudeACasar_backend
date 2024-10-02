@@ -1949,3 +1949,11 @@
 2024-10-02 16:42:00:420 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
 2024-10-02 16:42:00:420 - [31merror[39m - [31mNão foi possível remover o presente! Erro: Não foi encontrado nenhum recurso com o ID 66fd9fd1762d588d37258630[39m
 2024-10-02 16:42:04:424 - [31merror[39m - [31mNão foi possível remover o presente! Erro: Não foi encontrado nenhum recurso com o ID 66fd9fd1762d588d37258630[39m
+2024-10-02 17:22:52:2252 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-10-02 17:22:53:2253 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-10-02 17:23:39:2339 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-10-02 17:23:39:2339 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-10-02 17:25:41:2541 - [31merror[39m - [31mNão foi possível iniciar a conexão com o banco de dados. Erro: Error: queryTxt ESERVFAIL cluster0.g9rdhby.mongodb.net[39m
+2024-10-02 17:25:41:2541 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-10-02 17:27:02:272 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-10-02 17:27:02:272 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
