@@ -119,7 +119,7 @@ giftRouter.get('/byGiftList/:giftListId', authenticateUserAccess, findAll);
  *     tags:
  *       - Gifts
  */
-giftRouter.get('/:giftListId/giftId', authenticateUserAccess, findById);
+giftRouter.get('/:giftListId/:giftId', authenticateUserAccess, findById);
 
 /**
  * @openapi
@@ -198,19 +198,19 @@ giftRouter.put('/:giftListId/:giftId', authenticateUserAccess, update);
  *     summary: Remove o presente com o ID especificado
  *     security:
  *      - BearerToken: []
- *      parameters:
- *       - name: giftListId
- *         in: path
- *         required: true
- *         description: O ID da lista de presentes onde está o presente.
- *         schema:
- *           type: string
- *       - name: giftId
- *         in: path
- *         required: true
- *         description: O ID do presente que deve ser removido.
- *         schema:
- *           type: string
+ *     parameters:
+ *      - name: giftListId
+ *        in: path
+ *        required: true
+ *        description: O ID da lista de presentes onde está o presente.
+ *        schema:
+ *          type: string
+ *      - name: giftId
+ *        in: path
+ *        required: true
+ *        description: O ID do presente que deve ser removido.
+ *        schema:
+ *          type: string
  *     responses:
  *       200:
  *         description: Retorna TRUE ou FALSE, indicando se a operação foi concluída com sucesso.

@@ -29,7 +29,7 @@ export default function GiftService() {
         try {
             const giftList: IGiftList = await findGiftListById(giftListId);
             
-            let gift: IGift | undefined = giftList.presentes.find((gift) => gift._id === giftId)
+            let gift: IGift | undefined = giftList.presentes.find((gift) => gift._id!.toString() === giftId)
                     
             if(!gift)
                 throw new ResourceNotFoundException(giftId);
@@ -60,10 +60,9 @@ export default function GiftService() {
 
     const update = async (giftListId: string, giftId: string, gift: IGift): Promise<IGift> => {
         try {
-            await findById(giftListId, gift._id);
-
             const giftList: IGiftList = await findGiftListById(giftListId);
-            const giftIndex = giftList.presentes.findIndex((g) => g._id === gift._id)
+            console.log(giftList)
+            const giftIndex = giftList.presentes.findIndex((g) => g._id!.toString() === giftId)
 
             giftList.presentes[giftIndex] = gift;
 
@@ -81,10 +80,8 @@ export default function GiftService() {
 
     const remove = async (giftListId: string, giftId: string): Promise<boolean> => {
         try {
-            await findById(giftListId, giftId);
-
             const giftList: IGiftList = await findGiftListById(giftListId);
-            const giftIndex = giftList.presentes.findIndex((g) => g._id === giftId)
+            const giftIndex = giftList.presentes.findIndex((g) => g._id!.toString() === giftId)
 
             if (giftIndex === -1) 
                 throw new ResourceNotFoundException(giftId);
