@@ -17,6 +17,7 @@ export default function UserService() {
             Logger.error("Não foi possível fazer a consulta de todos os usuários! Erro: " + error.message);
             if(error instanceof ResourceNotFoundException)
                 throw error;
+            
             throw new DatabaseException(error.message);
         }
     }

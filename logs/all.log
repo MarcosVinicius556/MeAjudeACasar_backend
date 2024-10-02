@@ -1847,3 +1847,17 @@
 2024-09-12 15:13:27:1327 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
 2024-09-12 15:14:05:145 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
 2024-09-12 15:14:05:145 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-12 15:15:00:150 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-12 15:15:00:150 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-12 15:15:47:1547 - [31merror[39m - [31mNão foi possível fazer a consulta do usuário solicitado! Erro: Não foi encontrado nenhum recurso com o ID 66aac7b97cc1208f707239c1[39m
+2024-09-12 15:16:01:161 - [31merror[39m - [31mNão foi possível remover o usuário! Erro: Não foi encontrado nenhum recurso com o ID 66aac7b97cc1208f707239c1[39m
+2024-09-16 09:34:23:3423 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-16 09:34:23:3423 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-09-16 09:34:30:3430 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-09-16 09:34:30:3430 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-10-02 14:57:29:5729 - [31merror[39m - [31mNão foi possível iniciar a conexão com o banco de dados. Erro: Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.g9rdhby.mongodb.net[39m
+2024-10-02 14:57:29:5729 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-10-02 14:58:08:588 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-10-02 14:58:08:588 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
+2024-10-02 15:46:24:4624 - [32minfo[39m - [32mConexão com o banco de dados estabelecida com sucesso![39m
+2024-10-02 15:46:24:4624 - [32minfo[39m - [32mRodando a aplicação na porta 3000[39m
