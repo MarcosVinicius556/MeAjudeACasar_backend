@@ -12,7 +12,7 @@ import cors from 'cors';
 //OpenAPI - Swagger
 import swaggerUi from 'swagger-ui-express';
 import swaggerSpec from '../config/swaggerOptions';
-
+ 
 //Database
 import startDatabaseConnection from '../config/databaseConnection';
 
